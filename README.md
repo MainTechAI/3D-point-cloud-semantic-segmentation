@@ -1,8 +1,8 @@
 # 3D-point-cloud-semantic-segmentation
 
-### Open source implementations 
 
-Multi-view Representation
+
+### Multi-view Representation
 
 | Name | Link |
 |:---------:|:---------:|
@@ -10,7 +10,7 @@ Multi-view Representation
 
 
 
-Spherical Representation
+### Spherical Representation
 
 | Name | Link |
 |:---------:|:---------:|
@@ -18,7 +18,7 @@ Spherical Representation
 
 
 
-Dense Discretization Representation
+### Dense Discretization Representation
 
 | Name | Link |
 |:---------:|:---------:|
@@ -27,7 +27,7 @@ Dense Discretization Representation
 
 
 
- Sparse Discretization Representation
+### Sparse Discretization Representation
 
 | Name | Link |
 |:---------:|:---------:|
@@ -36,18 +36,17 @@ Dense Discretization Representation
 
 
 
- Pointwise MLP
+### Pointwise MLP
 
 | Name | Link |
 |:---------:|:---------:|
 | PointNet++  | [link](https://github.com/charlesq34/pointnet2) |
 | RandLA-Net  | [link](https://github.com/QingyongHu/RandLA-Net) |
-| LSANet | [link](https://github.com/LinZhuoChen/LSANet) |
-| EdgeConv | [link](https://github.com/WangYueFt/dgcnn) |
 
 
 
- Point Convolution
+
+### Point Convolution
 
 | Name | Link |
 |:---------:|:---------:|
@@ -55,15 +54,33 @@ Dense Discretization Representation
 | KPConv | [link](https://github.com/HuguesTHOMAS/KPConv) |
 
 
- RNN-based
+### Neighboring Feature Pooling
+| Name | Link |
+|:---------:|:---------:|
+| PointWeb  | [link](https://github.com/hszhao/PointWeb) |
+
+
+### RNN-based
 
 | Name | Link |
 |:---------:|:---------:|
-|  | [link]() |
+| RSNet | [link](https://github.com/qianguih/RSNet) |
 
 
+### Attention-Based Aggregation
+| Name | Link |
+|:---------:|:---------:|
+| LSANet | [link](https://github.com/LinZhuoChen/LSANet) |
 
- Graph-based 
+
+### Local-Global Concatenation.
+| Name | Link |
+|:---------:|:---------:|
+| EdgeConv | [link](https://github.com/WangYueFt/dgcnn) |
+| Capsule Networks? | [link](https://github.com/yongheng1991/3D-point-capsule-networks) |
+
+
+### Graph-based 
 
 | Name | Link |
 |:---------:|:---------:|
@@ -71,7 +88,7 @@ Dense Discretization Representation
 | ? | [link](https://github.com/alex-xun-xu/WeakSupPointCloudSeg) |
 
 
- Hybrid 
+### Hybrid 
 
 | Name | Link |
 |:---------:|:---------:|
