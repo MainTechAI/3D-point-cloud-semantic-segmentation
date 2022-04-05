@@ -94,3 +94,12 @@
 |:---------:|:---------:|
 | UPB | [link](https://github.com/ken012git/joint_point_based) |
 | MVPNet | [link](https://github.com/maxjaritz/mvpnet) |
+
+
+-----------------------------------------------------
+
+### Most suitable for large-scale point clouds (millions of points)
+SPG https://github.com/loicland/superpoint_graph
+
+Weakly Supervised 1 https://github.com/plusmultiply/mprm
+
