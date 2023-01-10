@@ -1,6 +1,9 @@
 # 3D-point-cloud-semantic-segmentation
 
+Master's thesis  - [link](https://lutpub.lut.fi/handle/10024/165027)
 
+--------------
+# Different methods
 
 ### Multi-view Representation
 
