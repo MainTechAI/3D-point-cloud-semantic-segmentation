@@ -7,7 +7,7 @@ Master's thesis  - [link](https://lutpub.lut.fi/handle/10024/165027)
 
 
 --------------
-# Different methods
+# Examined approaches
 
 ### Multi-view Representation
 
@@ -92,7 +92,7 @@ Master's thesis  - [link](https://lutpub.lut.fi/handle/10024/165027)
 | Name | Link |
 |:---------:|:---------:|
 | MPRM | [link](https://github.com/plusmultiply/mprm) |
-| ? | [link](https://github.com/alex-xun-xu/WeakSupPointCloudSeg) |
+| WeakSupPointCloudSeg | [link](https://github.com/alex-xun-xu/WeakSupPointCloudSeg) |
 
 
 ### Hybrid 
@@ -105,8 +105,8 @@ Master's thesis  - [link](https://lutpub.lut.fi/handle/10024/165027)
 
 -----------------------------------------------------
 
-### Most suitable for large-scale point clouds (millions of points)
+### Most suitable alternatives for large-scale point clouds (millions of points)
 SPG https://github.com/loicland/superpoint_graph
 
-Weakly Supervised 1 https://github.com/plusmultiply/mprm
+Weakly Supervised https://github.com/plusmultiply/mprm
 
