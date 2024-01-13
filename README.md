@@ -2,6 +2,8 @@
 
 Master's thesis  - [link](https://lutpub.lut.fi/handle/10024/165027)
 
+The implimented solution was based on this [project](https://github.com/QingyongHu/RandLA-Net#License-1-ov-file)
+
 ### Results
 ![ex1_logs](https://user-images.githubusercontent.com/52529117/214327482-783264ff-6365-49b6-af7c-252d297a214f.png)
 
